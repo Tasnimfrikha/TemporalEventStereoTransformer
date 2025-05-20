@@ -1,0 +1,15 @@
+# Ignorer les environnements virtuels Python
+eventstereo_env/
+
+# Ignorer les checkpoints, logs, etc.
+*.tar
+*.whl
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+output/
+logs/
+runs/
