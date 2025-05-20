@@ -1,0 +1,456 @@
+Model name: ours_large_transformer
+Log path: /home/cerbere-25/TemporalEventStereo_Official/checkpoints_transformer
+
+Number of model parameters: 5410564
+Running on device: cuda
+Done initialization
+
+This is 0-th epoch
+Iter 0 training loss = 77.664 , time = 1.75
+epoch 0 total training loss = nan, disp loss = nan
+Train finished in 4.5827 second(s)
+Model name: ours_large_transformer
+Log path: checkpoints_transformer
+
+Number of model parameters: 5410564
+Running on device: cuda
+Done initialization
+
+This is 0-th epoch
+Iter 0 training loss = 77.643 , time = 1.71
+epoch 0 total training loss = nan, disp loss = nan
+Train finished in 4.4031 second(s)
+Model name: ours_large_transformer
+Log path: checkpoints_transformer
+
+Number of model parameters: 5410564
+Running on device: cuda
+Done initialization
+
+This is 0-th epoch
+Iter 0 training loss = 77.643 , time = 1.48
+epoch 0 total training loss = nan, disp loss = nan
+Train finished in 4.1398 second(s)
+Validation finished in 1164.0358 second(s)
+Model name: stereo_transformer
+Log path: checkpoints_transformer
+
+Number of model parameters: 4334845
+Running on device: cuda
+Done initialization
+
+Model name: stereo_transformer
+Log path: checkpoints_transformer
+
+Number of model parameters: 4334845
+Running on device: cuda
+Done initialization
+
+This is 0-th epoch
+Model name: stereo_transformer
+Log path: checkpoints_transformer
+
+Number of model parameters: 4334845
+Running on device: cuda
+Done initialization
+
+This is 0-th epoch
+Model name: stereo_transformer
+Log path: /home/cerbere-25/TemporalEventStereo_Official/checkpoints_transformer
+
+Number of model parameters: 4334845
+Running on device: cuda
+Done initialization
+
+This is 0-th epoch
+Iter 0 training loss = 3.379 , time = 0.66
+Iter 400 training loss = 2.653 , time = 0.03
+Iter 800 training loss = 2.989 , time = 0.03
+Iter 1200 training loss = 1.803 , time = 0.04
+epoch 0 total training loss = 2.874, disp loss = 2.874
+epoch 0 average EPE = 3.095
+epoch 0 average 1px error = 41.109%
+epoch 0 average 2px error = 36.298%
+epoch 0 average 3px error = 31.127%
+epoch 0 average 4px error = 0.000%
+epoch 0 average 5px error = 22.674%
+Train finished in 121.7915 second(s)
+This is 1-th epoch
+Iter 0 training loss = 2.087 , time = 0.03
+Iter 400 training loss = 3.166 , time = 0.03
+Iter 800 training loss = 3.227 , time = 0.03
+Iter 1200 training loss = 4.102 , time = 0.03
+epoch 1 total training loss = 2.682, disp loss = 2.682
+epoch 1 average EPE = 2.901
+epoch 1 average 1px error = 40.270%
+epoch 1 average 2px error = 34.990%
+epoch 1 average 3px error = 29.697%
+epoch 1 average 4px error = 0.000%
+epoch 1 average 5px error = 21.120%
+Train finished in 137.1756 second(s)
+This is 2-th epoch
+Iter 0 training loss = 2.705 , time = 0.04
+Iter 400 training loss = 3.328 , time = 0.03
+Iter 800 training loss = 1.874 , time = 0.03
+Iter 1200 training loss = 4.449 , time = 0.03
+epoch 2 total training loss = 2.626, disp loss = 2.626
+epoch 2 average EPE = 2.840
+epoch 2 average 1px error = 39.465%
+epoch 2 average 2px error = 34.272%
+epoch 2 average 3px error = 29.018%
+epoch 2 average 4px error = 0.000%
+epoch 2 average 5px error = 20.685%
+Train finished in 136.7662 second(s)
+This is 3-th epoch
+Iter 0 training loss = 2.385 , time = 0.04
+Iter 400 training loss = 4.044 , time = 0.04
+Iter 800 training loss = 1.841 , time = 0.03
+Iter 1200 training loss = 2.445 , time = 0.04
+epoch 3 total training loss = 2.615, disp loss = 2.615
+epoch 3 average EPE = 2.831
+epoch 3 average 1px error = 39.517%
+epoch 3 average 2px error = 34.159%
+epoch 3 average 3px error = 28.757%
+epoch 3 average 4px error = 0.000%
+epoch 3 average 5px error = 20.403%
+Train finished in 138.6977 second(s)
+This is 4-th epoch
+Iter 0 training loss = 1.938 , time = 0.06
+Iter 400 training loss = 2.964 , time = 0.03
+Iter 800 training loss = 2.617 , time = 0.04
+Iter 1200 training loss = 2.239 , time = 0.04
+epoch 4 total training loss = 2.595, disp loss = 2.595
+epoch 4 average EPE = 2.812
+epoch 4 average 1px error = 39.642%
+epoch 4 average 2px error = 34.145%
+epoch 4 average 3px error = 28.766%
+epoch 4 average 4px error = 0.000%
+epoch 4 average 5px error = 20.342%
+Train finished in 140.1442 second(s)
+This is 5-th epoch
+Iter 0 training loss = 1.806 , time = 0.05
+Iter 400 training loss = 2.529 , time = 0.03
+Iter 800 training loss = 2.560 , time = 0.04
+Iter 1200 training loss = 1.427 , time = 0.03
+epoch 5 total training loss = 2.557, disp loss = 2.557
+epoch 5 average EPE = 2.771
+epoch 5 average 1px error = 39.062%
+epoch 5 average 2px error = 33.546%
+epoch 5 average 3px error = 28.146%
+epoch 5 average 4px error = 0.000%
+epoch 5 average 5px error = 19.934%
+Train finished in 139.4297 second(s)
+This is 6-th epoch
+Iter 0 training loss = 2.046 , time = 0.04
+Iter 400 training loss = 2.526 , time = 0.04
+Iter 800 training loss = 2.926 , time = 0.04
+Iter 1200 training loss = 2.386 , time = 0.03
+epoch 6 total training loss = 2.523, disp loss = 2.523
+epoch 6 average EPE = 2.736
+epoch 6 average 1px error = 38.746%
+epoch 6 average 2px error = 33.242%
+epoch 6 average 3px error = 27.782%
+epoch 6 average 4px error = 0.000%
+epoch 6 average 5px error = 19.621%
+Train finished in 132.6736 second(s)
+This is 7-th epoch
+Iter 0 training loss = 3.300 , time = 0.04
+Iter 400 training loss = 2.295 , time = 0.03
+Iter 800 training loss = 1.800 , time = 0.03
+Iter 1200 training loss = 4.000 , time = 0.03
+epoch 7 total training loss = 2.489, disp loss = 2.489
+epoch 7 average EPE = 2.700
+epoch 7 average 1px error = 38.464%
+epoch 7 average 2px error = 32.877%
+epoch 7 average 3px error = 27.498%
+epoch 7 average 4px error = 0.000%
+epoch 7 average 5px error = 19.362%
+Train finished in 138.3347 second(s)
+This is 8-th epoch
+Iter 0 training loss = 1.860 , time = 0.04
+Iter 400 training loss = 3.322 , time = 0.04
+Iter 800 training loss = 2.815 , time = 0.04
+Iter 1200 training loss = 1.174 , time = 0.04
+epoch 8 total training loss = 2.485, disp loss = 2.485
+epoch 8 average EPE = 2.696
+epoch 8 average 1px error = 38.352%
+epoch 8 average 2px error = 32.727%
+epoch 8 average 3px error = 27.309%
+epoch 8 average 4px error = 0.000%
+epoch 8 average 5px error = 19.300%
+Train finished in 138.0235 second(s)
+This is 9-th epoch
+Iter 0 training loss = 2.930 , time = 0.04
+Iter 400 training loss = 2.038 , time = 0.03
+Iter 800 training loss = 1.305 , time = 0.04
+Iter 1200 training loss = 1.885 , time = 0.04
+epoch 9 total training loss = 2.486, disp loss = 2.486
+epoch 9 average EPE = 2.697
+epoch 9 average 1px error = 38.374%
+epoch 9 average 2px error = 32.708%
+epoch 9 average 3px error = 27.332%
+epoch 9 average 4px error = 0.000%
+epoch 9 average 5px error = 19.343%
+Train finished in 137.5857 second(s)
+This is 10-th epoch
+Iter 0 training loss = 2.208 , time = 0.04
+Iter 400 training loss = 2.178 , time = 0.03
+Iter 800 training loss = 2.270 , time = 0.04
+Iter 1200 training loss = 2.727 , time = 0.03
+epoch 10 total training loss = 2.437, disp loss = 2.437
+epoch 10 average EPE = 2.647
+epoch 10 average 1px error = 38.027%
+epoch 10 average 2px error = 32.349%
+epoch 10 average 3px error = 26.915%
+epoch 10 average 4px error = 0.000%
+epoch 10 average 5px error = 18.985%
+Train finished in 137.7115 second(s)
+This is 11-th epoch
+Iter 0 training loss = 1.466 , time = 0.04
+Iter 400 training loss = 2.894 , time = 0.03
+Iter 800 training loss = 3.017 , time = 0.04
+Iter 1200 training loss = 2.724 , time = 0.04
+epoch 11 total training loss = 2.438, disp loss = 2.438
+epoch 11 average EPE = 2.648
+epoch 11 average 1px error = 38.115%
+epoch 11 average 2px error = 32.338%
+epoch 11 average 3px error = 26.861%
+epoch 11 average 4px error = 0.000%
+epoch 11 average 5px error = 18.912%
+Train finished in 138.5494 second(s)
+This is 12-th epoch
+Iter 0 training loss = 1.922 , time = 0.04
+Iter 400 training loss = 2.929 , time = 0.04
+Iter 800 training loss = 3.109 , time = 0.03
+Iter 1200 training loss = 2.443 , time = 0.04
+epoch 12 total training loss = 2.430, disp loss = 2.430
+epoch 12 average EPE = 2.642
+epoch 12 average 1px error = 38.267%
+epoch 12 average 2px error = 32.267%
+epoch 12 average 3px error = 26.797%
+epoch 12 average 4px error = 0.000%
+epoch 12 average 5px error = 18.774%
+Train finished in 139.3492 second(s)
+This is 13-th epoch
+Iter 0 training loss = 2.290 , time = 0.04
+Iter 400 training loss = 0.705 , time = 0.03
+Iter 800 training loss = 2.473 , time = 0.03
+Iter 1200 training loss = 1.488 , time = 0.04
+epoch 13 total training loss = 2.387, disp loss = 2.387
+epoch 13 average EPE = 2.595
+epoch 13 average 1px error = 37.548%
+epoch 13 average 2px error = 31.641%
+epoch 13 average 3px error = 26.275%
+epoch 13 average 4px error = 0.000%
+epoch 13 average 5px error = 18.448%
+Train finished in 139.314 second(s)
+This is 14-th epoch
+Iter 0 training loss = 3.207 , time = 0.05
+Iter 400 training loss = 1.694 , time = 0.03
+Iter 800 training loss = 1.588 , time = 0.03
+Iter 1200 training loss = 2.454 , time = 0.04
+epoch 14 total training loss = 2.386, disp loss = 2.386
+epoch 14 average EPE = 2.595
+epoch 14 average 1px error = 37.673%
+epoch 14 average 2px error = 31.819%
+epoch 14 average 3px error = 26.295%
+epoch 14 average 4px error = 0.000%
+epoch 14 average 5px error = 18.424%
+Train finished in 139.725 second(s)
+This is 15-th epoch
+Iter 0 training loss = 2.732 , time = 0.04
+Iter 400 training loss = 2.913 , time = 0.04
+Iter 800 training loss = 2.137 , time = 0.05
+Iter 1200 training loss = 2.591 , time = 0.03
+epoch 15 total training loss = 2.400, disp loss = 2.400
+epoch 15 average EPE = 2.611
+epoch 15 average 1px error = 37.831%
+epoch 15 average 2px error = 31.821%
+epoch 15 average 3px error = 26.396%
+epoch 15 average 4px error = 0.000%
+epoch 15 average 5px error = 18.520%
+Train finished in 139.0888 second(s)
+This is 16-th epoch
+Iter 0 training loss = 2.668 , time = 0.04
+Iter 400 training loss = 1.358 , time = 0.03
+Iter 800 training loss = 1.599 , time = 0.03
+Iter 1200 training loss = 4.098 , time = 0.04
+epoch 16 total training loss = 2.371, disp loss = 2.371
+epoch 16 average EPE = 2.579
+epoch 16 average 1px error = 37.501%
+epoch 16 average 2px error = 31.479%
+epoch 16 average 3px error = 26.031%
+epoch 16 average 4px error = 0.000%
+epoch 16 average 5px error = 18.268%
+Train finished in 137.7422 second(s)
+This is 17-th epoch
+Iter 0 training loss = 2.522 , time = 0.04
+Iter 400 training loss = 2.538 , time = 0.03
+Iter 800 training loss = 2.569 , time = 0.04
+Iter 1200 training loss = 2.744 , time = 0.03
+epoch 17 total training loss = 2.347, disp loss = 2.347
+epoch 17 average EPE = 2.555
+epoch 17 average 1px error = 37.276%
+epoch 17 average 2px error = 31.277%
+epoch 17 average 3px error = 25.811%
+epoch 17 average 4px error = 0.000%
+epoch 17 average 5px error = 18.047%
+Train finished in 138.2212 second(s)
+This is 18-th epoch
+Iter 0 training loss = 2.164 , time = 0.04
+Iter 400 training loss = 2.363 , time = 0.03
+Iter 800 training loss = 3.119 , time = 0.03
+Iter 1200 training loss = 3.492 , time = 0.03
+epoch 18 total training loss = 2.343, disp loss = 2.343
+epoch 18 average EPE = 2.550
+epoch 18 average 1px error = 37.229%
+epoch 18 average 2px error = 31.206%
+epoch 18 average 3px error = 25.777%
+epoch 18 average 4px error = 0.000%
+epoch 18 average 5px error = 17.968%
+Train finished in 139.5424 second(s)
+This is 19-th epoch
+Iter 0 training loss = 2.802 , time = 0.04
+Iter 400 training loss = 2.264 , time = 0.03
+Iter 800 training loss = 2.619 , time = 0.04
+Iter 1200 training loss = 2.269 , time = 0.04
+epoch 19 total training loss = 2.349, disp loss = 2.349
+epoch 19 average EPE = 2.558
+epoch 19 average 1px error = 37.446%
+epoch 19 average 2px error = 31.348%
+epoch 19 average 3px error = 25.820%
+epoch 19 average 4px error = 0.000%
+epoch 19 average 5px error = 18.036%
+Train finished in 138.6499 second(s)
+This is 20-th epoch
+Iter 0 training loss = 2.114 , time = 0.04
+Iter 400 training loss = 1.603 , time = 0.04
+Iter 800 training loss = 1.889 , time = 0.04
+Iter 1200 training loss = 3.668 , time = 0.04
+epoch 20 total training loss = 2.300, disp loss = 2.300
+epoch 20 average EPE = 2.505
+epoch 20 average 1px error = 36.805%
+epoch 20 average 2px error = 30.706%
+epoch 20 average 3px error = 25.240%
+epoch 20 average 4px error = 0.000%
+epoch 20 average 5px error = 17.645%
+Train finished in 138.7698 second(s)
+This is 21-th epoch
+Iter 0 training loss = 2.231 , time = 0.04
+Iter 400 training loss = 2.992 , time = 0.04
+Iter 800 training loss = 1.749 , time = 0.03
+Iter 1200 training loss = 1.360 , time = 0.03
+epoch 21 total training loss = 2.287, disp loss = 2.287
+epoch 21 average EPE = 2.492
+epoch 21 average 1px error = 36.784%
+epoch 21 average 2px error = 30.707%
+epoch 21 average 3px error = 25.244%
+epoch 21 average 4px error = 0.000%
+epoch 21 average 5px error = 17.530%
+Train finished in 138.0026 second(s)
+This is 22-th epoch
+Iter 0 training loss = 1.852 , time = 0.04
+Iter 400 training loss = 3.118 , time = 0.03
+Iter 800 training loss = 2.171 , time = 0.03
+Iter 1200 training loss = 2.634 , time = 0.03
+epoch 22 total training loss = 2.309, disp loss = 2.309
+epoch 22 average EPE = 2.516
+epoch 22 average 1px error = 36.983%
+epoch 22 average 2px error = 30.851%
+epoch 22 average 3px error = 25.329%
+epoch 22 average 4px error = 0.000%
+epoch 22 average 5px error = 17.658%
+Train finished in 137.9984 second(s)
+This is 23-th epoch
+Iter 0 training loss = 2.675 , time = 0.05
+Iter 400 training loss = 2.526 , time = 0.04
+Iter 800 training loss = 2.109 , time = 0.04
+Iter 1200 training loss = 2.653 , time = 0.03
+epoch 23 total training loss = 2.287, disp loss = 2.287
+epoch 23 average EPE = 2.494
+epoch 23 average 1px error = 36.942%
+epoch 23 average 2px error = 30.708%
+epoch 23 average 3px error = 25.199%
+epoch 23 average 4px error = 0.000%
+epoch 23 average 5px error = 17.489%
+Train finished in 137.4778 second(s)
+This is 24-th epoch
+Iter 0 training loss = 3.007 , time = 0.04
+Iter 400 training loss = 3.834 , time = 0.04
+Iter 800 training loss = 2.942 , time = 0.03
+Iter 1200 training loss = 1.529 , time = 0.03
+epoch 24 total training loss = 2.299, disp loss = 2.299
+epoch 24 average EPE = 2.505
+epoch 24 average 1px error = 36.882%
+epoch 24 average 2px error = 30.641%
+epoch 24 average 3px error = 25.179%
+epoch 24 average 4px error = 0.000%
+epoch 24 average 5px error = 17.562%
+Train finished in 137.7218 second(s)
+This is 25-th epoch
+Iter 0 training loss = 1.929 , time = 0.04
+Iter 400 training loss = 2.677 , time = 0.03
+Iter 800 training loss = 1.108 , time = 0.03
+Iter 1200 training loss = 1.587 , time = 0.03
+epoch 25 total training loss = 2.278, disp loss = 2.278
+epoch 25 average EPE = 2.484
+epoch 25 average 1px error = 36.769%
+epoch 25 average 2px error = 30.621%
+epoch 25 average 3px error = 25.066%
+epoch 25 average 4px error = 0.000%
+epoch 25 average 5px error = 17.447%
+Train finished in 130.3852 second(s)
+This is 26-th epoch
+Iter 0 training loss = 2.292 , time = 0.05
+Iter 400 training loss = 2.337 , time = 0.04
+Iter 800 training loss = 2.531 , time = 0.03
+Iter 1200 training loss = 2.299 , time = 0.03
+epoch 26 total training loss = 2.258, disp loss = 2.258
+epoch 26 average EPE = 2.463
+epoch 26 average 1px error = 36.553%
+epoch 26 average 2px error = 30.335%
+epoch 26 average 3px error = 24.854%
+epoch 26 average 4px error = 0.000%
+epoch 26 average 5px error = 17.242%
+Train finished in 134.7903 second(s)
+This is 27-th epoch
+Iter 0 training loss = 0.993 , time = 0.04
+Iter 400 training loss = 2.081 , time = 0.04
+Iter 800 training loss = 1.266 , time = 0.03
+Iter 1200 training loss = 3.220 , time = 0.03
+epoch 27 total training loss = 2.255, disp loss = 2.255
+epoch 27 average EPE = 2.460
+epoch 27 average 1px error = 36.692%
+epoch 27 average 2px error = 30.356%
+epoch 27 average 3px error = 24.844%
+epoch 27 average 4px error = 0.000%
+epoch 27 average 5px error = 17.238%
+Train finished in 137.1175 second(s)
+This is 28-th epoch
+Iter 0 training loss = 3.139 , time = 0.05
+Iter 400 training loss = 2.101 , time = 0.03
+Iter 800 training loss = 3.214 , time = 0.03
+Iter 1200 training loss = 2.651 , time = 0.03
+epoch 28 total training loss = 2.254, disp loss = 2.254
+epoch 28 average EPE = 2.458
+epoch 28 average 1px error = 36.528%
+epoch 28 average 2px error = 30.269%
+epoch 28 average 3px error = 24.763%
+epoch 28 average 4px error = 0.000%
+epoch 28 average 5px error = 17.204%
+Train finished in 137.5535 second(s)
+This is 29-th epoch
+Iter 0 training loss = 1.684 , time = 0.04
+Iter 400 training loss = 2.016 , time = 0.04
+Iter 800 training loss = 0.983 , time = 0.03
+Iter 1200 training loss = 3.303 , time = 0.03
+epoch 29 total training loss = 2.227, disp loss = 2.227
+epoch 29 average EPE = 2.431
+epoch 29 average 1px error = 36.211%
+epoch 29 average 2px error = 29.947%
+epoch 29 average 3px error = 24.516%
+epoch 29 average 4px error = 0.000%
+epoch 29 average 5px error = 17.050%
+Train finished in 134.668 second(s)
+full training time = 1.14 HR
+############ TRAINING END ############
